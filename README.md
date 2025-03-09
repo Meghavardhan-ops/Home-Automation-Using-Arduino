@@ -24,9 +24,25 @@ The DC motor is used to move a gearbox with a large reduction ratio. The final s
 
 LM35 🌡️
 The LM35 is a precision IC temperature sensor with its output proportional to the temperature (in °C) 📏. The sensor circuitry is sealed, which means it is not subjected to oxidation and other processes 🌿🔒.
+
 ![pc4](https://github.com/user-attachments/assets/7667bd9e-98b2-4001-896a-557ef7f8c929)
 
 PIR Sensor 👤
 The pin configuration of the PIR sensor is shown in the figure 📐. The PIR sensor consists of three pins: ground, signal, and power at the side or bottom. Generally, the PIR sensor power is up to 5V, but the large size PIR modules operate a relay instead of direct output 🔌
+
 ![pc5](https://github.com/user-attachments/assets/68351926-b37f-4e33-b41b-8e46c6bd8bf0)
+
+HC-05 (Bluetooth) 📶
+To make a link between your Arduino and Bluetooth, do the following:
+
+Go to the Bluetooth icon 🔷, right click and select Add a Device ➕
+
+Search for a new device 🔎. Our Bluetooth module will appear as HC-05 📱, and add it ✅
+
+The pairing code will be 1234 🔒
+
+After making a pairing, we can now program the Arduino and upload a sketch to send or receive data from the computer 🖥️➡️📊
+
+![ard](https://github.com/user-attachments/assets/1f383e03-f242-4e30-91e9-0e7bbc547090)
+
 .
