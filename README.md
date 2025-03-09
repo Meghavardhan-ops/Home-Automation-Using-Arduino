@@ -7,4 +7,4 @@ In today's era, technology can enhance human life. Technology is evolving decade
 Getting Started
 Before starting the project, lets understand basics first. Consider the following image (overall configuration): 
 
-![Uploading pc1.jpg…]()
+pc1.jpg
