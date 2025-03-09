@@ -7,4 +7,4 @@ In today's era, technology can enhance human life. Technology is evolving decade
 Getting Started
 Before starting the project, lets understand basics first. Consider the following image (overall configuration): 
 
-pc1.jpg
+https://github.com/Meghavardhan-ops/Home-Automation-Using-Arduino/blob/main/pc1.jpg
